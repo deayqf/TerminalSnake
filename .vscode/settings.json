@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "xiosbase": "cpp",
+        "iostream": "cpp",
+        "ios": "cpp",
+        "iosfwd": "cpp",
+        "type_traits": "cpp",
+        "xutility": "cpp"
+    }
+}
